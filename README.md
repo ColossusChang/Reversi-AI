@@ -1,2 +1,2 @@
 # Reversi-AI
-An AI designed for playing Reversi
+一个用来下黑白棋的AI，详见《黑白棋AI简介》。
